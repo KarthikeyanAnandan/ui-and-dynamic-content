@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Barriecito|Poppins&display=swap');
+
+.logo {
+    width: 200px;
+    padding-left: 50px;
+    padding-top: 25px;
+}
+
+header {
+    background-color: cornsilk;
+    margin: inherit;
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header h1 {
+    text-align: left;
+    padding-bottom: 15px;
+    margin-left: 25px;
+    color: firebrick;
+    font-family: 'Barriecito', cursive;
+    font-size: 3.5em;
+}
+
+body {
+    background-color: bisque;
+}
+
+h3, li, p, button {
+    font-family: 'Poppins', sans-serif;
+    color: firebrick;
+}
+
+h3 {
+    font-size: 2.5em;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+li {
+    font-style: italic;
+    font-weight: 700;
+}
+
+p {
+    font-size: 20px;
+}
+button {
+    background-color: tomato;
+    color: snow;
+    border-radius: 30px;
+}
+
+.s-logo {
+    width: 2.5em;
+    bottom: 0px;
+}
+
+.footer  {
+    position: fixed;
+    bottom: 25px;
+}
+
+input {
+    border-radius: 10px;
+    padding: 10px;
+    color: crimson;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
